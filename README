@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1224
+
+This _vimrc is currently used on a windows XP machine running gvim 7.1. However, it has been run on Linux (running vim 5.x and above). I dont think it has any platform specific customization and has been reasonably commented. Contains tips from friends, this site and other sources.
+
+This is not exactly the best _vimrc but my humble contribution. If you find a mistake or have a suggestion/query - do leave a comment below or at my blog - http://tinyurl.com/3jvty
