@@ -1,5 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=1224
+This script has been renamed to my _vimrc (for Windows 2000/XP/7 users).
 
-This _vimrc is currently used on a windows XP machine running gvim 7.1. However, it has been run on Linux (running vim 5.x and above). I dont think it has any platform specific customization and has been reasonably commented. Contains tips from friends, this site and other sources.
-
-This is not exactly the best _vimrc but my humble contribution. If you find a mistake or have a suggestion/query - do leave a comment below or at my blog - http://tinyurl.com/3jvty
+http://github.com/vim-scripts/my-_vimrc-for-Windows-2000XP7-users
